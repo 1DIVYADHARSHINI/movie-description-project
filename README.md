@@ -44,6 +44,9 @@ Install my-project with required libraries:
 3)The application will display detailed information about the searched movie.
 
 
+##Screenshot
+![Screenshot (7)](https://github.com/1DIVYADHARSHINI/movie-description-project/assets/162281554/e532815c-92d8-448b-8715-951853bc71a0)
+
 
 
 ## Contributing
