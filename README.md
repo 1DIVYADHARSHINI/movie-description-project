@@ -43,6 +43,9 @@ Install my-project with required libraries:
 2)Enter the movie name in the provided entry field and click the "SEARCH" button.
 3)The application will display detailed information about the searched movie.
 
+
+
+
 ## Contributing
 
 Contributions are always welcome!
