@@ -47,12 +47,19 @@ Install my-project with required libraries:
 ## screenshort
 
 Include screenshots or GIFs demonstrating the functionality of your application.
+
+
 1)Screenshot of the main interface:
 
 ![Screenshot (7)](https://github.com/1DIVYADHARSHINI/movie-description-project/assets/162281554/e532815c-92d8-448b-8715-951853bc71a0)
 
 2)Searching for a Movie:
 ![Screenshot (9)](https://github.com/1DIVYADHARSHINI/movie-description-project/assets/162281554/98b69bd2-8206-4827-a4bc-bfd5845e5ee0)
+
+3)Displaying Movie Details:
+
+![Screenshot (10)](https://github.com/1DIVYADHARSHINI/movie-description-project/assets/162281554/b799b7a5-948e-418f-8b66-3cedba43f9c5)
+
 
 
 
