@@ -20,5 +20,43 @@ The Movie Description Project is a Python application built with Tkinter and IMD
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/movie-description-project.git
+   git clone https://github.com/1DIVYADHARSHINI/movie-description-project.git
 
+## Installation
+
+Install my-project with required libraries:
+
+```bash
+  pip install IMDbPY
+
+```
+
+## Usage
+
+1)Run the application
+
+```bash
+  python main.py
+
+
+```
+2)Enter the movie name in the provided entry field and click the "SEARCH" button.
+3)The application will display detailed information about the searched movie.
+
+## Contributing
+
+Contributions are always welcome!
+If you'd like to contribute to this project, please follow the contribution guidelines.
+
+## Acknowledgements
+
+ - Special thanks to the developers of IMDbPY library.
+ - Inspiration from [similar projects or libraries].
+
+
+
+
+
+   
+   
+   
