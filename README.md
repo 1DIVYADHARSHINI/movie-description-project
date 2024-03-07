@@ -74,7 +74,7 @@ If you'd like to contribute to this project, please follow the contribution guid
  - Special thanks to the developers of IMDbPY library.
  - Inspiration from [similar projects or libraries].
 
-##Additional Notes
+## Additional Notes
 If there are any additional details or notes about your project, include them here.
 
 Remember to replace placeholders like [Divyadharshini] with your actual information. Also, ensure that the images you reference in the README file are in a folder named "screenshots" within your project repository.
