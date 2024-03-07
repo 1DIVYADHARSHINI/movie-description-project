@@ -46,6 +46,8 @@ Install my-project with required libraries:
 
 ## screenshort
 
+Include screenshots or GIFs demonstrating the functionality of your application.
+
 ![Screenshot (7)](https://github.com/1DIVYADHARSHINI/movie-description-project/assets/162281554/e532815c-92d8-448b-8715-951853bc71a0)
 
 
